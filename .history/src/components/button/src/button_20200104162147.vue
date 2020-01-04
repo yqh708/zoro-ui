@@ -1,5 +1,5 @@
 <template>
-    <button >我是按钮</button>
+    <button>我是按钮</button>
 </template>
 
 <script>
@@ -9,7 +9,5 @@
 </script>
 
 <style scoped>
-button{
-    color: red;
-}
+
 </style>

@@ -8,6 +8,8 @@ const install = function(Vue, opts = {}) {
 if (typeof window !== 'undefined' && window.Vue) {
     install(window.Vue);
 }
+console.log(ZButton)
+debugger
 export default {
     version: '2.8.2',
     ZButton,

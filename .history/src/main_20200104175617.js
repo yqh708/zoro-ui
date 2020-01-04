@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import ZUI from '@/index.js'
 import router from './router'
+console.log(ZUI)
 Vue.config.productionTip = false
 Vue.use(ZUI)
 new Vue({

@@ -11,5 +11,5 @@ if (typeof window !== 'undefined' && window.Vue) {
 export default {
     version: '2.8.2',
     ZButton,
-    install
+    // install
 };
